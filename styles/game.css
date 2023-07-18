@@ -161,6 +161,10 @@
 
 /* Funny videos */
 
+.funny-video{
+    margin-top: 110px;
+}
+
 .funny-title{
     color: #0B0223;
     text-align: center;
@@ -183,3 +187,52 @@
     font-weight: 400;
     margin-top: 0;
 }
+
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 240px;
+}
+
+.card-container .card{
+    width: 342px;
+    height: 400px;
+    margin-left: 40px;
+}
+
+.card-container .card p{
+    color: #534C64;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.watch{
+    font-size: 20px;
+    font-weight: 700;
+    color: #f147aa;
+    position: relative;
+    right: 9px;
+}
+
+.card img{
+    transition: filter 0.3s ease;
+}
+
+.card:hover img{
+    filter: brightness(0.2);
+}
+
+.h-over{
+    display: grid;
+    grid-template-columns: 1fr;
+    position: relative;
+    bottom: 350px;
+    left: 150px;
+}
+
+.h-over:hover{
+    opacity: 1;
+}
+
+

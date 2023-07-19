@@ -280,3 +280,287 @@
     bottom: 200px;
     right: 150px;
 }
+
+
+
+/* ========btn-1========= */
+.exp1{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 20px;
+    border-radius: 48px;
+    background: none;
+    border: none;
+
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-image: url('../images/Rectangle\ 11.png');
+    background-repeat: no-repeat;
+}
+
+.text-pos1{
+    padding-left: 40px;
+}
+
+.exp1:hover {
+    border: 2px solid #F948B2;
+    color: #F948B2;
+}
+
+/* ================= */
+/* ========btn-2========= */
+.exp2{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 20px;
+    border-radius: 48px;
+    background: none;
+    border: none;
+
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-image: url('../images/Rectangle\ 12.png');
+    background-repeat: no-repeat;
+}
+
+.text-pos2{
+    padding-left: 40px;
+}
+
+.exp2:hover {
+    border: 2px solid #F948B2;
+    color: #F948B2;
+}
+
+/* ================= */
+/* ========btn-3========= */
+.exp3{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 20px;
+    border-radius: 48px;
+    background: none;
+    border: none;
+
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-image: url('../images/Rectangle\ 13.png');
+    background-repeat: no-repeat;
+}
+
+.text-pos3{
+    padding-left: 40px;
+}
+
+.exp3:hover {
+    border: 2px solid #F948B2;
+    color: #F948B2;
+}
+
+/* ================= */
+/* ========btn-4========= */
+.exp4{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 20px;
+    border-radius: 48px;
+    background: none;
+    border: none;
+
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-image: url('../images/Rectangle\ 14.png');
+    background-repeat: no-repeat;
+}
+
+.text-pos4{
+    padding-left: 40px;
+}
+
+.exp4:hover {
+    border: 2px solid #F948B2;
+    color: #F948B2;
+}
+
+/* ================= */
+/* ========btn-5========= */
+.exp5{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 20px;
+    border-radius: 48px;
+    background: none;
+    border: none;
+
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-image: url('../images/Rectangle\ 15.png');
+    background-repeat: no-repeat;
+}
+
+.text-pos5{
+    padding-left: 40px;
+}
+
+.exp5:hover {
+    border: 2px solid #F948B2;
+    color: #F948B2;
+}
+
+/* ================= */
+
+
+.row1-buttons{
+    display: flex;
+    justify-content:center;
+}
+
+
+
+
+
+/* ========btn-6========= */
+.exp6{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 20px;
+    border-radius: 48px;
+    background: none;
+    border: none;
+
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-image: url('../images/Rectangle\ 16.png');
+    background-repeat: no-repeat;
+}
+
+.text-pos6{
+    padding-left: 40px;
+}
+
+.exp6:hover {
+    border: 2px solid #F948B2;
+    color: #F948B2;
+}
+
+/* ================= */
+/* ========btn-7========= */
+.exp7{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 20px;
+    border-radius: 48px;
+    background: none;
+    border: none;
+
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-image: url('../images/Rectangle\ 17.png');
+    background-repeat: no-repeat;
+}
+
+.text-pos7{
+    padding-left: 40px;
+}
+
+.exp7:hover {
+    border: 2px solid #F948B2;
+    color: #F948B2;
+}
+
+/* ================= */
+/* ========btn-8========= */
+.exp8{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 20px;
+    border-radius: 48px;
+    background: none;
+    border: none;
+
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-image: url('../images/Rectangle\ 18.png');
+    background-repeat: no-repeat;
+}
+
+.text-pos8{
+    padding-left: 40px;
+}
+
+.exp8:hover {
+    border: 2px solid #F948B2;
+    color: #F948B2;
+}
+
+/* ================= */
+/* ========btn-9========= */
+.exp9{
+    display: inline-flex;
+    padding: 21px 40px;
+    align-items: flex-start;
+    gap: 20px;
+    border-radius: 48px;
+    background: none;
+    border: none;
+
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-image: url('../images/Rectangle\ 19.png');
+    background-repeat: no-repeat;
+}
+
+.text-pos9{
+    padding-left: 40px;
+}
+
+.exp9:hover {
+    border: 2px solid #F948B2;
+    color: #F948B2;
+}
+
+/* ================= */
+
+
+
+.row2-buttons{
+    display: flex;
+    justify-content:center;
+    margin-top: 30px;
+}
+
+/* Footer styles */
+
+footer{
+    background: #0B0223;
+    width: 1920px;
+    height: 636px;
+    flex-shrink: 0;
+    margin-top: 50px;
+}

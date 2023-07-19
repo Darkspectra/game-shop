@@ -279,6 +279,7 @@
     position: relative;
     bottom: 200px;
     right: 150px;
+    border: 2px dashed #F948B2;
 }
 
 
@@ -553,14 +554,71 @@
     display: flex;
     justify-content:center;
     margin-top: 30px;
+    margin-bottom: 150px;
 }
 
 /* Footer styles */
+.footer-title{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    justify-content: center;
+    position: relative;
+    bottom: 180px;
+    color: #FFF;
+    
+}
+
 
 footer{
-    background: #0B0223;
-    width: 1920px;
-    height: 636px;
-    flex-shrink: 0;
+    background-color: #0B0223;
+    padding: 236px 120px;
     margin-top: 50px;
+}
+
+.story-items{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    gap: 80px;
+    position: relative;
+    bottom: 140px;
+    right: 20px;
+}
+
+.foot-icon{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 80px;
+    gap: 40px;
+}
+
+.terms-items{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    color: #FFF;
+    text-align: center;
+    font-weight: 500;
+    gap: 60px;
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+}
+
+footer p{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    color: #FFF;
+    text-align: center;
+    font-weight: 500;
+    gap: 60px;
+    position: relative;
+    top: 200px;
 }
